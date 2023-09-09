@@ -35,7 +35,7 @@
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
-## 1. Add your profile picture to the folder
+## 1. Add your profile picture to the folder (Not Necessary)
 
 Add a picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
@@ -44,7 +44,7 @@ static/images/<YOUR-USERNAME>.png
 ```
 
 
-## 2. Add your profile information
+## 2. Add your profile information (Not Necessary)
 
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
@@ -66,7 +66,7 @@ github: USERNAME
 <h2> OR </h2>
 </div>
 
-## 3. Create / Upload Your Code / Algorithms
+## 3. Create / Upload Your Code / Algorithms (Necessary) ✅
 
 Create/Upload your code in the folder following the convention `Add Code Here`
 - Choose an extract language folder `drop your code`
@@ -95,7 +95,7 @@ Keep in mind that the repo has hacktoberfest topic.
 '''
 ```
 
-## + Follow Me : } Quick Approval of Pull Request
+## + Follow Me :) Quick Approval of Pull Request
 
 ```py
 '''
