@@ -1,11 +1,11 @@
-# HacktoberFest 2023 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
+# HacktoberFest 2023 `OPEN FIRST` Pull Request
 ![HacktoberFest 2023](https://github.com/hackelite01/Hacktoberfest2023/raw/main/.github/logo.png)
 
 
 
 ## This Project Is Perfect For Your First Pull Request
 
-🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.**
+🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year.**
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
@@ -90,7 +90,7 @@ Always make more than 4 pull requests.
 Let's say you have made only 4 pull requests to different projects,
 but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
 then you have the remaining 3 valid pull requests if these projects are not excluded.
-If you fail to make 4 pull requests then you can't get swags or t-shirts.
+If you fail to make 4 pull requests then you can't get swags.
 Keep in mind that the repo has hacktoberfest topic.
 '''
 ```
